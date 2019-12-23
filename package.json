@@ -94,6 +94,6 @@
     "eslint-loader": "^2.0.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
-    "nyc": "^11.1.0"
+    "nyc": "^15.0.0"
   }
 }
